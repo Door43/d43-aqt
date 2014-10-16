@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aqt:home|Door43 (aqt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aqt|d43-aqt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aqt/archive/master.zip|d43-aqt.zip]]
+
+**Recent Changes**
+{{changes>ns = aqt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aqt|Ethnologue data]]
+
